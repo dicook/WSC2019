@@ -445,13 +445,15 @@ You've learned how to fit .pink[data visualisation] into a .pink[hypothesis test
 Hopefully, you are taking away the message that .pink[visualisation] remains, and is .pink[increasingly important] for the large complex data we are working with today.
 
 ---
-class: inverse middle center
-
-Visualising data goes way beyond barcharts and pie charts and line plots, and scatterplots
+class: inverse center
+background-image: url(images/wasps.gif)
+background-position: 50% 80%
+background-size: 30%
 
 <br>
+<br>
+Visualising data goes way beyond barcharts and pie charts and line plots, and scatterplots
 
-`r anicon::faa("beer", size=3, speed="slow", animate="float", colour="#CFA118")`
 
 ---
 # References
